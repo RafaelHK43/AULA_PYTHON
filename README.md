@@ -14,5 +14,5 @@
 **Tipos de Estruturas condicionas** 
 
 - if: Executa um bloco de coígo se uma condição especifica for verdadeira.
-- elif: 
-- else:
+- elif: Significa "else if" e permite que você verifique várias condições.
+- else: Executa um bloco de código se nenhuma das condições anteriores for verdadeira.
